@@ -1,12 +1,12 @@
 ﻿**********************
 Inicio de la transcripción de Windows PowerShell
-Hora de inicio: 20220210104030
+Hora de inicio: 20220215011533
 Nombre de usuario: LAPTOP-7E3L8DO3\Marcos
 Usuario RunAs: LAPTOP-7E3L8DO3\Marcos
 Nombre de la configuración: 
 Máquina: LAPTOP-7E3L8DO3 (Microsoft Windows NT 10.0.19044.0)
 Aplicación host: C:\WINDOWS\system32\WindowsPowerShell\v1.0\PowerShell.exe
-Id. de proceso: 11936
+Id. de proceso: 12444
 PSVersion: 5.1.19041.1320
 PSEdition: Desktop
 PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.1320
@@ -16,14 +16,8 @@ WSManStackVersion: 3.0
 PSRemotingProtocolVersion: 2.3
 SerializationVersion: 1.1.0.1
 **********************
-La transcripción ha comenzado. El archivo de salida es C:\Users\Marcos\Documents\PowerShell_transcript.LAPTOP-7E3L8DO3.r46xD4IT.20220210104030.txt
-PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
-6−26: Non−critical Section
-7−25: Critical section
-6−26: End of non−critical Section
-7−25: Inside critical section
-7−25: End of critical section
-7−26: Non−critical Section
+La transcripción ha comenzado. El archivo de salida es decker.txt
+PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01_decker.py
 0−26: Critical section
 7−26: End of non−critical Section
 0−26: Inside critical section
@@ -119,8 +113,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 2−28: Inside critical section
 2−28: End of critical section
 2−29: Non−critical Section
-2−29: End of non−critical Section
 3−28: Critical section
+2−29: End of non−critical Section
 3−28: Inside critical section
 3−28: End of critical section
 3−29: Non−critical Section
@@ -505,8 +499,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 7−37: End of critical section
 7−38: Non−critical Section
 0−38: Critical section
-0−38: Inside critical section
 7−38: End of non−critical Section
+0−38: Inside critical section
 0−38: End of critical section
 0−39: Non−critical Section
 1−38: Critical section
@@ -605,19 +599,19 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 3−40: End of critical section
 3−41: Non−critical Section
 4−40: Critical section
+3−41: End of non−critical Section
 4−40: Inside critical section
 4−40: End of critical section
-3−41: End of non−critical Section
 4−41: Non−critical Section
 5−40: Critical section
 4−41: End of non−critical Section
 5−40: Inside critical section
 5−40: End of critical section
-6−40: Critical section
 5−41: Non−critical Section
+6−40: Critical section
+5−41: End of non−critical Section
 6−40: Inside critical section
 6−40: End of critical section
-5−41: End of non−critical Section
 6−41: Non−critical Section
 7−40: Critical section
 6−41: End of non−critical Section
@@ -643,10 +637,10 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 2−42: End of non−critical Section
 3−41: Inside critical section
 3−41: End of critical section
-4−41: Critical section
 3−42: Non−critical Section
-4−41: Inside critical section
+4−41: Critical section
 3−42: End of non−critical Section
+4−41: Inside critical section
 4−41: End of critical section
 4−42: Non−critical Section
 5−41: Critical section
@@ -854,8 +848,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 5−46: Inside critical section
 5−46: End of critical section
 5−47: Non−critical Section
-6−46: Critical section
 5−47: End of non−critical Section
+6−46: Critical section
 6−46: Inside critical section
 6−46: End of critical section
 6−47: Non−critical Section
@@ -884,8 +878,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 3−47: Inside critical section
 3−47: End of critical section
 3−48: Non−critical Section
-4−47: Critical section
 3−48: End of non−critical Section
+4−47: Critical section
 4−47: Inside critical section
 4−47: End of critical section
 4−48: Non−critical Section
@@ -990,8 +984,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 0−50: End of critical section
 0−51: Non−critical Section
 1−50: Critical section
-1−50: Inside critical section
 0−51: End of non−critical Section
+1−50: Inside critical section
 1−50: End of critical section
 1−51: Non−critical Section
 2−50: Critical section
@@ -1285,8 +1279,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 3−57: End of critical section
 3−58: Non−critical Section
 4−57: Critical section
-4−57: Inside critical section
 3−58: End of non−critical Section
+4−57: Inside critical section
 4−57: End of critical section
 4−58: Non−critical Section
 5−57: Critical section
@@ -1379,14 +1373,14 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 6−59: Inside critical section
 6−59: End of critical section
 6−60: Non−critical Section
-7−59: Critical section
 6−60: End of non−critical Section
+7−59: Critical section
 7−59: Inside critical section
 7−59: End of critical section
-7−60: Non−critical Section
 0−60: Critical section
-7−60: End of non−critical Section
+7−60: Non−critical Section
 0−60: Inside critical section
+7−60: End of non−critical Section
 0−60: End of critical section
 0−61: Non−critical Section
 1−60: Critical section
@@ -1650,8 +1644,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 4−66: End of critical section
 4−67: Non−critical Section
 5−66: Critical section
-4−67: End of non−critical Section
 5−66: Inside critical section
+4−67: End of non−critical Section
 5−66: End of critical section
 5−67: Non−critical Section
 6−66: Critical section
@@ -1924,13 +1918,13 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 3−73: Inside critical section
 3−73: End of critical section
 3−74: Non−critical Section
-3−74: End of non−critical Section
 4−73: Critical section
+3−74: End of non−critical Section
 4−73: Inside critical section
 4−73: End of critical section
 4−74: Non−critical Section
-4−74: End of non−critical Section
 5−73: Critical section
+4−74: End of non−critical Section
 5−73: Inside critical section
 5−73: End of critical section
 5−74: Non−critical Section
@@ -1949,13 +1943,13 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 0−74: Inside critical section
 0−74: End of critical section
 0−75: Non−critical Section
-0−75: End of non−critical Section
 1−74: Critical section
+0−75: End of non−critical Section
 1−74: Inside critical section
 1−74: End of critical section
 1−75: Non−critical Section
-1−75: End of non−critical Section
 2−74: Critical section
+1−75: End of non−critical Section
 2−74: Inside critical section
 2−74: End of critical section
 2−75: Non−critical Section
@@ -1974,8 +1968,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 5−74: Inside critical section
 5−74: End of critical section
 5−75: Non−critical Section
-6−74: Critical section
 5−75: End of non−critical Section
+6−74: Critical section
 6−74: Inside critical section
 6−74: End of critical section
 6−75: Non−critical Section
@@ -2004,18 +1998,18 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 3−75: Inside critical section
 3−75: End of critical section
 3−76: Non−critical Section
-4−75: Critical section
 3−76: End of non−critical Section
+4−75: Critical section
 4−75: Inside critical section
 4−75: End of critical section
 4−76: Non−critical Section
-5−75: Critical section
 4−76: End of non−critical Section
+5−75: Critical section
 5−75: Inside critical section
 5−75: End of critical section
 5−76: Non−critical Section
-6−75: Critical section
 5−76: End of non−critical Section
+6−75: Critical section
 6−75: Inside critical section
 6−75: End of critical section
 6−76: Non−critical Section
@@ -2024,8 +2018,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 7−75: Inside critical section
 7−75: End of critical section
 7−76: Non−critical Section
-0−76: Critical section
 7−76: End of non−critical Section
+0−76: Critical section
 0−76: Inside critical section
 0−76: End of critical section
 0−77: Non−critical Section
@@ -2039,13 +2033,13 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 2−76: Inside critical section
 2−76: End of critical section
 2−77: Non−critical Section
-3−76: Critical section
 2−77: End of non−critical Section
+3−76: Critical section
 3−76: Inside critical section
 3−76: End of critical section
 3−77: Non−critical Section
-3−77: End of non−critical Section
 4−76: Critical section
+3−77: End of non−critical Section
 4−76: Inside critical section
 4−76: End of critical section
 4−77: Non−critical Section
@@ -2054,13 +2048,13 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 5−76: Inside critical section
 5−76: End of critical section
 5−77: Non−critical Section
-6−76: Critical section
 5−77: End of non−critical Section
+6−76: Critical section
 6−76: Inside critical section
 6−76: End of critical section
 6−77: Non−critical Section
-6−77: End of non−critical Section
 7−76: Critical section
+6−77: End of non−critical Section
 7−76: Inside critical section
 7−76: End of critical section
 7−77: Non−critical Section
@@ -2069,8 +2063,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 0−77: Inside critical section
 0−77: End of critical section
 0−78: Non−critical Section
-1−77: Critical section
 0−78: End of non−critical Section
+1−77: Critical section
 1−77: Inside critical section
 1−77: End of critical section
 1−78: Non−critical Section
@@ -2079,8 +2073,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 2−77: Inside critical section
 2−77: End of critical section
 2−78: Non−critical Section
-3−77: Critical section
 2−78: End of non−critical Section
+3−77: Critical section
 3−77: Inside critical section
 3−77: End of critical section
 3−78: Non−critical Section
@@ -2099,8 +2093,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 6−77: Inside critical section
 6−77: End of critical section
 6−78: Non−critical Section
-6−78: End of non−critical Section
 7−77: Critical section
+6−78: End of non−critical Section
 7−77: Inside critical section
 7−77: End of critical section
 7−78: Non−critical Section
@@ -2139,13 +2133,13 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 6−78: Inside critical section
 6−78: End of critical section
 6−79: Non−critical Section
-7−78: Critical section
 6−79: End of non−critical Section
+7−78: Critical section
 7−78: Inside critical section
 7−78: End of critical section
 7−79: Non−critical Section
-0−79: Critical section
 7−79: End of non−critical Section
+0−79: Critical section
 0−79: Inside critical section
 0−79: End of critical section
 0−80: Non−critical Section
@@ -2154,8 +2148,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 1−79: Inside critical section
 1−79: End of critical section
 1−80: Non−critical Section
-2−79: Critical section
 1−80: End of non−critical Section
+2−79: Critical section
 2−79: Inside critical section
 2−79: End of critical section
 2−80: Non−critical Section
@@ -2164,8 +2158,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 3−79: Inside critical section
 3−79: End of critical section
 3−80: Non−critical Section
-4−79: Critical section
 3−80: End of non−critical Section
+4−79: Critical section
 4−79: Inside critical section
 4−79: End of critical section
 4−80: Non−critical Section
@@ -2194,23 +2188,23 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 1−80: Inside critical section
 1−80: End of critical section
 1−81: Non−critical Section
-1−81: End of non−critical Section
 2−80: Critical section
+1−81: End of non−critical Section
 2−80: Inside critical section
 2−80: End of critical section
 2−81: Non−critical Section
-2−81: End of non−critical Section
 3−80: Critical section
+2−81: End of non−critical Section
 3−80: Inside critical section
 3−80: End of critical section
 3−81: Non−critical Section
-3−81: End of non−critical Section
 4−80: Critical section
+3−81: End of non−critical Section
 4−80: Inside critical section
 4−80: End of critical section
 4−81: Non−critical Section
-5−80: Critical section
 4−81: End of non−critical Section
+5−80: Critical section
 5−80: Inside critical section
 5−80: End of critical section
 5−81: Non−critical Section
@@ -2219,8 +2213,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 6−80: Inside critical section
 6−80: End of critical section
 6−81: Non−critical Section
-7−80: Critical section
 6−81: End of non−critical Section
+7−80: Critical section
 7−80: Inside critical section
 7−80: End of critical section
 7−81: Non−critical Section
@@ -2229,13 +2223,13 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 0−81: Inside critical section
 0−81: End of critical section
 0−82: Non−critical Section
-0−82: End of non−critical Section
 1−81: Critical section
+0−82: End of non−critical Section
 1−81: Inside critical section
 1−81: End of critical section
 1−82: Non−critical Section
-1−82: End of non−critical Section
 2−81: Critical section
+1−82: End of non−critical Section
 2−81: Inside critical section
 2−81: End of critical section
 2−82: Non−critical Section
@@ -2244,8 +2238,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 3−81: Inside critical section
 3−81: End of critical section
 3−82: Non−critical Section
-3−82: End of non−critical Section
 4−81: Critical section
+3−82: End of non−critical Section
 4−81: Inside critical section
 4−81: End of critical section
 4−82: Non−critical Section
@@ -2254,13 +2248,13 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 5−81: Inside critical section
 5−81: End of critical section
 5−82: Non−critical Section
-6−81: Critical section
 5−82: End of non−critical Section
+6−81: Critical section
 6−81: Inside critical section
 6−81: End of critical section
 6−82: Non−critical Section
-7−81: Critical section
 6−82: End of non−critical Section
+7−81: Critical section
 7−81: Inside critical section
 7−81: End of critical section
 7−82: Non−critical Section
@@ -2289,13 +2283,13 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 4−82: Inside critical section
 4−82: End of critical section
 4−83: Non−critical Section
-5−82: Critical section
 4−83: End of non−critical Section
+5−82: Critical section
 5−82: Inside critical section
 5−82: End of critical section
 5−83: Non−critical Section
-5−83: End of non−critical Section
 6−82: Critical section
+5−83: End of non−critical Section
 6−82: Inside critical section
 6−82: End of critical section
 6−83: Non−critical Section
@@ -2309,8 +2303,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 0−83: Inside critical section
 0−83: End of critical section
 0−84: Non−critical Section
-1−83: Critical section
 0−84: End of non−critical Section
+1−83: Critical section
 1−83: Inside critical section
 1−83: End of critical section
 1−84: Non−critical Section
@@ -2339,8 +2333,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 6−83: Inside critical section
 6−83: End of critical section
 6−84: Non−critical Section
-7−83: Critical section
 6−84: End of non−critical Section
+7−83: Critical section
 7−83: Inside critical section
 7−83: End of critical section
 7−84: Non−critical Section
@@ -2349,8 +2343,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 0−84: Inside critical section
 0−84: End of critical section
 0−85: Non−critical Section
-0−85: End of non−critical Section
 1−84: Critical section
+0−85: End of non−critical Section
 1−84: Inside critical section
 1−84: End of critical section
 1−85: Non−critical Section
@@ -2359,43 +2353,43 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 2−84: Inside critical section
 2−84: End of critical section
 2−85: Non−critical Section
-3−84: Critical section
 2−85: End of non−critical Section
+3−84: Critical section
 3−84: Inside critical section
 3−84: End of critical section
 3−85: Non−critical Section
 4−84: Critical section
-3−85: End of non−critical Section
 4−84: Inside critical section
+3−85: End of non−critical Section
 4−84: End of critical section
 4−85: Non−critical Section
-4−85: End of non−critical Section
 5−84: Critical section
+4−85: End of non−critical Section
 5−84: Inside critical section
 5−84: End of critical section
 5−85: Non−critical Section
-5−85: End of non−critical Section
 6−84: Critical section
 6−84: Inside critical section
+5−85: End of non−critical Section
 6−84: End of critical section
 6−85: Non−critical Section
-6−85: End of non−critical Section
 7−84: Critical section
+6−85: End of non−critical Section
 7−84: Inside critical section
 7−84: End of critical section
 7−85: Non−critical Section
-0−85: Critical section
 7−85: End of non−critical Section
+0−85: Critical section
 0−85: Inside critical section
 0−85: End of critical section
 0−86: Non−critical Section
-0−86: End of non−critical Section
 1−85: Critical section
+0−86: End of non−critical Section
 1−85: Inside critical section
 1−85: End of critical section
 1−86: Non−critical Section
-1−86: End of non−critical Section
 2−85: Critical section
+1−86: End of non−critical Section
 2−85: Inside critical section
 2−85: End of critical section
 2−86: Non−critical Section
@@ -2409,13 +2403,13 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 4−85: Inside critical section
 4−85: End of critical section
 4−86: Non−critical Section
-4−86: End of non−critical Section
 5−85: Critical section
+4−86: End of non−critical Section
 5−85: Inside critical section
 5−85: End of critical section
 5−86: Non−critical Section
-5−86: End of non−critical Section
 6−85: Critical section
+5−86: End of non−critical Section
 6−85: Inside critical section
 6−85: End of critical section
 6−86: Non−critical Section
@@ -2434,13 +2428,13 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 1−86: Inside critical section
 1−86: End of critical section
 1−87: Non−critical Section
-2−86: Critical section
 1−87: End of non−critical Section
+2−86: Critical section
 2−86: Inside critical section
 2−86: End of critical section
 2−87: Non−critical Section
-2−87: End of non−critical Section
 3−86: Critical section
+2−87: End of non−critical Section
 3−86: Inside critical section
 3−86: End of critical section
 3−87: Non−critical Section
@@ -2449,13 +2443,13 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 4−86: Inside critical section
 4−86: End of critical section
 4−87: Non−critical Section
-5−86: Critical section
 4−87: End of non−critical Section
+5−86: Critical section
 5−86: Inside critical section
 5−86: End of critical section
 5−87: Non−critical Section
-6−86: Critical section
 5−87: End of non−critical Section
+6−86: Critical section
 6−86: Inside critical section
 6−86: End of critical section
 6−87: Non−critical Section
@@ -2469,8 +2463,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 0−87: Inside critical section
 0−87: End of critical section
 0−88: Non−critical Section
-1−87: Critical section
 0−88: End of non−critical Section
+1−87: Critical section
 1−87: Inside critical section
 1−87: End of critical section
 1−88: Non−critical Section
@@ -2499,8 +2493,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 6−87: Inside critical section
 6−87: End of critical section
 6−88: Non−critical Section
-6−88: End of non−critical Section
 7−87: Critical section
+6−88: End of non−critical Section
 7−87: Inside critical section
 7−87: End of critical section
 7−88: Non−critical Section
@@ -2509,8 +2503,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 0−88: Inside critical section
 0−88: End of critical section
 0−89: Non−critical Section
-1−88: Critical section
 0−89: End of non−critical Section
+1−88: Critical section
 1−88: Inside critical section
 1−88: End of critical section
 1−89: Non−critical Section
@@ -2519,13 +2513,13 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 2−88: Inside critical section
 2−88: End of critical section
 2−89: Non−critical Section
-2−89: End of non−critical Section
 3−88: Critical section
+2−89: End of non−critical Section
 3−88: Inside critical section
 3−88: End of critical section
 3−89: Non−critical Section
-3−89: End of non−critical Section
 4−88: Critical section
+3−89: End of non−critical Section
 4−88: Inside critical section
 4−88: End of critical section
 4−89: Non−critical Section
@@ -2534,28 +2528,28 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 5−88: Inside critical section
 5−88: End of critical section
 5−89: Non−critical Section
-5−89: End of non−critical Section
 6−88: Critical section
+5−89: End of non−critical Section
 6−88: Inside critical section
 6−88: End of critical section
 6−89: Non−critical Section
-6−89: End of non−critical Section
 7−88: Critical section
+6−89: End of non−critical Section
 7−88: Inside critical section
 7−88: End of critical section
 7−89: Non−critical Section
-7−89: End of non−critical Section
 0−89: Critical section
+7−89: End of non−critical Section
 0−89: Inside critical section
 0−89: End of critical section
 0−90: Non−critical Section
-1−89: Critical section
 0−90: End of non−critical Section
+1−89: Critical section
 1−89: Inside critical section
 1−89: End of critical section
 1−90: Non−critical Section
-2−89: Critical section
 1−90: End of non−critical Section
+2−89: Critical section
 2−89: Inside critical section
 2−89: End of critical section
 2−90: Non−critical Section
@@ -2569,13 +2563,13 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 4−89: Inside critical section
 4−89: End of critical section
 4−90: Non−critical Section
-4−90: End of non−critical Section
 5−89: Critical section
+4−90: End of non−critical Section
 5−89: Inside critical section
 5−89: End of critical section
 5−90: Non−critical Section
-6−89: Critical section
 5−90: End of non−critical Section
+6−89: Critical section
 6−89: Inside critical section
 6−89: End of critical section
 6−90: Non−critical Section
@@ -2584,8 +2578,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 7−89: Inside critical section
 7−89: End of critical section
 7−90: Non−critical Section
-7−90: End of non−critical Section
 0−90: Critical section
+7−90: End of non−critical Section
 0−90: Inside critical section
 0−90: End of critical section
 0−91: Non−critical Section
@@ -2594,18 +2588,18 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 1−90: Inside critical section
 1−90: End of critical section
 1−91: Non−critical Section
-2−90: Critical section
 1−91: End of non−critical Section
+2−90: Critical section
 2−90: Inside critical section
 2−90: End of critical section
 2−91: Non−critical Section
-2−91: End of non−critical Section
 3−90: Critical section
+2−91: End of non−critical Section
 3−90: Inside critical section
 3−90: End of critical section
 3−91: Non−critical Section
-3−91: End of non−critical Section
 4−90: Critical section
+3−91: End of non−critical Section
 4−90: Inside critical section
 4−90: End of critical section
 4−91: Non−critical Section
@@ -2619,8 +2613,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 6−90: Inside critical section
 6−90: End of critical section
 6−91: Non−critical Section
-6−91: End of non−critical Section
 7−90: Critical section
+6−91: End of non−critical Section
 7−90: Inside critical section
 7−90: End of critical section
 7−91: Non−critical Section
@@ -2629,23 +2623,23 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 0−91: Inside critical section
 0−91: End of critical section
 0−92: Non−critical Section
-1−91: Critical section
 0−92: End of non−critical Section
+1−91: Critical section
 1−91: Inside critical section
 1−91: End of critical section
 1−92: Non−critical Section
-1−92: End of non−critical Section
 2−91: Critical section
+1−92: End of non−critical Section
 2−91: Inside critical section
 2−91: End of critical section
 2−92: Non−critical Section
-2−92: End of non−critical Section
 3−91: Critical section
+2−92: End of non−critical Section
 3−91: Inside critical section
 3−91: End of critical section
 3−92: Non−critical Section
-3−92: End of non−critical Section
 4−91: Critical section
+3−92: End of non−critical Section
 4−91: Inside critical section
 4−91: End of critical section
 4−92: Non−critical Section
@@ -2654,33 +2648,33 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 5−91: Inside critical section
 5−91: End of critical section
 5−92: Non−critical Section
-5−92: End of non−critical Section
 6−91: Critical section
+5−92: End of non−critical Section
 6−91: Inside critical section
 6−91: End of critical section
 6−92: Non−critical Section
-7−91: Critical section
 6−92: End of non−critical Section
+7−91: Critical section
 7−91: Inside critical section
 7−91: End of critical section
 7−92: Non−critical Section
-0−92: Critical section
 7−92: End of non−critical Section
+0−92: Critical section
 0−92: Inside critical section
 0−92: End of critical section
 0−93: Non−critical Section
-1−92: Critical section
 0−93: End of non−critical Section
+1−92: Critical section
 1−92: Inside critical section
 1−92: End of critical section
 1−93: Non−critical Section
-1−93: End of non−critical Section
 2−92: Critical section
+1−93: End of non−critical Section
 2−92: Inside critical section
 2−92: End of critical section
 2−93: Non−critical Section
-3−92: Critical section
 2−93: End of non−critical Section
+3−92: Critical section
 3−92: Inside critical section
 3−92: End of critical section
 3−93: Non−critical Section
@@ -2699,8 +2693,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 6−92: Inside critical section
 6−92: End of critical section
 6−93: Non−critical Section
-7−92: Critical section
 6−93: End of non−critical Section
+7−92: Critical section
 7−92: Inside critical section
 7−92: End of critical section
 7−93: Non−critical Section
@@ -2709,8 +2703,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 0−93: Inside critical section
 0−93: End of critical section
 0−94: Non−critical Section
-1−93: Critical section
 0−94: End of non−critical Section
+1−93: Critical section
 1−93: Inside critical section
 1−93: End of critical section
 1−94: Non−critical Section
@@ -2729,23 +2723,23 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 4−93: Inside critical section
 4−93: End of critical section
 4−94: Non−critical Section
-5−93: Critical section
 4−94: End of non−critical Section
+5−93: Critical section
 5−93: Inside critical section
 5−93: End of critical section
 5−94: Non−critical Section
-6−93: Critical section
 5−94: End of non−critical Section
+6−93: Critical section
 6−93: Inside critical section
 6−93: End of critical section
 6−94: Non−critical Section
-6−94: End of non−critical Section
 7−93: Critical section
+6−94: End of non−critical Section
 7−93: Inside critical section
 7−93: End of critical section
 7−94: Non−critical Section
-0−94: Critical section
 7−94: End of non−critical Section
+0−94: Critical section
 0−94: Inside critical section
 0−94: End of critical section
 0−95: Non−critical Section
@@ -2764,13 +2758,13 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 3−94: Inside critical section
 3−94: End of critical section
 3−95: Non−critical Section
-3−95: End of non−critical Section
 4−94: Critical section
+3−95: End of non−critical Section
 4−94: Inside critical section
 4−94: End of critical section
 4−95: Non−critical Section
-5−94: Critical section
 4−95: End of non−critical Section
+5−94: Critical section
 5−94: Inside critical section
 5−94: End of critical section
 5−95: Non−critical Section
@@ -2779,8 +2773,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 6−94: Inside critical section
 6−94: End of critical section
 6−95: Non−critical Section
-6−95: End of non−critical Section
 7−94: Critical section
+6−95: End of non−critical Section
 7−94: Inside critical section
 7−94: End of critical section
 7−95: Non−critical Section
@@ -2789,8 +2783,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 0−95: Inside critical section
 0−95: End of critical section
 0−96: Non−critical Section
-1−95: Critical section
 0−96: End of non−critical Section
+1−95: Critical section
 1−95: Inside critical section
 1−95: End of critical section
 1−96: Non−critical Section
@@ -2804,8 +2798,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 3−95: Inside critical section
 3−95: End of critical section
 3−96: Non−critical Section
-4−95: Critical section
 3−96: End of non−critical Section
+4−95: Critical section
 4−95: Inside critical section
 4−95: End of critical section
 4−96: Non−critical Section
@@ -2819,8 +2813,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 6−95: Inside critical section
 6−95: End of critical section
 6−96: Non−critical Section
-6−96: End of non−critical Section
 7−95: Critical section
+6−96: End of non−critical Section
 7−95: Inside critical section
 7−95: End of critical section
 7−96: Non−critical Section
@@ -2844,8 +2838,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 3−96: Inside critical section
 3−96: End of critical section
 3−97: Non−critical Section
-3−97: End of non−critical Section
 4−96: Critical section
+3−97: End of non−critical Section
 4−96: Inside critical section
 4−96: End of critical section
 4−97: Non−critical Section
@@ -2854,8 +2848,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 5−96: Inside critical section
 5−96: End of critical section
 5−97: Non−critical Section
-5−97: End of non−critical Section
 6−96: Critical section
+5−97: End of non−critical Section
 6−96: Inside critical section
 6−96: End of critical section
 6−97: Non−critical Section
@@ -2864,13 +2858,13 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 7−96: Inside critical section
 7−96: End of critical section
 7−97: Non−critical Section
-7−97: End of non−critical Section
 0−97: Critical section
+7−97: End of non−critical Section
 0−97: Inside critical section
 0−97: End of critical section
 0−98: Non−critical Section
-0−98: End of non−critical Section
 1−97: Critical section
+0−98: End of non−critical Section
 1−97: Inside critical section
 1−97: End of critical section
 1−98: Non−critical Section
@@ -2884,8 +2878,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 3−97: Inside critical section
 3−97: End of critical section
 3−98: Non−critical Section
-4−97: Critical section
 3−98: End of non−critical Section
+4−97: Critical section
 4−97: Inside critical section
 4−97: End of critical section
 4−98: Non−critical Section
@@ -2904,23 +2898,23 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 7−97: Inside critical section
 7−97: End of critical section
 7−98: Non−critical Section
-0−98: Critical section
 7−98: End of non−critical Section
+0−98: Critical section
 0−98: Inside critical section
 0−98: End of critical section
 0−99: Non−critical Section
-1−98: Critical section
 0−99: End of non−critical Section
+1−98: Critical section
 1−98: Inside critical section
 1−98: End of critical section
 1−99: Non−critical Section
-2−98: Critical section
 1−99: End of non−critical Section
+2−98: Critical section
 2−98: Inside critical section
 2−98: End of critical section
 2−99: Non−critical Section
-3−98: Critical section
 2−99: End of non−critical Section
+3−98: Critical section
 3−98: Inside critical section
 3−98: End of critical section
 3−99: Non−critical Section
@@ -2939,8 +2933,8 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 6−98: Inside critical section
 6−98: End of critical section
 6−99: Non−critical Section
-6−99: End of non−critical Section
 7−98: Critical section
+6−99: End of non−critical Section
 7−98: Inside critical section
 7−98: End of critical section
 7−99: Non−critical Section
@@ -2971,14 +2965,14 @@ PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 01.py
 7−99: End of critical section
 Valor final del contador 800
 fin
-PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 02.py
+PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 02_decker.py
 
-PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 03.py
+PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 03_decker.py
 
 PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> python3 04_decker.py
 
 PS C:\Users\Marcos\Desktop\Paralela\Practica-Decker> stop-transcript
 **********************
 Fin de la transcripción de Windows PowerShell
-Hora de finalización: 20220210104229
+Hora de finalización: 20220215011629
 **********************
